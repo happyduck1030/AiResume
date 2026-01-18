@@ -2,7 +2,6 @@
 
 一个现代、响应式的简历生成器，支持 AI 辅助优化、头像上传与背景去除、多套模板和实时预览。
 
-> 说明：请在 `client/public/screenshot.png` 放置一张截图，GitHub 将在页面显示。
 
 ## 主要功能
 
@@ -31,7 +30,6 @@ npm install
 npm run dev
 ```
 
-打开浏览器访问 Vite 提示的地址（通常为 `http://localhost:5173`）。
 
 ---
 
